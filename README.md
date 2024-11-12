@@ -50,7 +50,7 @@ Ensure you have **Node.js** and **npm** installed.
           cd thirtysixstudio
           npm install
           npm run dev
-          server starts on localhost
+          server starts on localhost : http://localhost:5174
 
 
 
