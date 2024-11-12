@@ -44,6 +44,15 @@ ThirtySix Studio aims to blend modern design principles with seamless animations
 Ensure you have **Node.js** and **npm** installed.
 
 ### Installation
+1. **Clone the repository:**
+   ```bash
+         https://github.com/shivambhati10/ThirtySixStudios.git
+          cd thirtysixstudio
+          npm install
+          npm run dev
+          server starts on localhost:5173
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
