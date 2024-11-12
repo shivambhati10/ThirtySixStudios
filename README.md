@@ -1,4 +1,4 @@
-![36 (1)](https://github.com/user-attachments/assets/c05112b9-786b-447e-8606-f43f80e135e5)# ThirtySix Studios- Agency Portfolio
+# ThirtySix Studios- Agency Portfolio
 
 ![36 (1)](https://github.com/user-attachments/assets/8002118c-e10d-4a60-96ee-915925c8b93c)
 
